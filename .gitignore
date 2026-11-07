@@ -1,0 +1,5 @@
+.superpowers/
+mods/pr-panel/**/*.d.ts
+mods/pr-panel/**/jsconfig.json
+mods/pr-panel/*.d.ts
+mods/pr-panel/jsconfig.json

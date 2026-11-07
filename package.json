@@ -1,0 +1,6 @@
+{
+  "name": "pr-panel",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test test/" }
+}

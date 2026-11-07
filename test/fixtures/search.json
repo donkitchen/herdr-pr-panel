@@ -1,0 +1,879 @@
+{
+  "data": {
+    "search": {
+      "issueCount": 22,
+      "nodes": [
+        {
+          "id": "PR_kwDOfixture001",
+          "number": 10,
+          "title": "Fix widget layout case 1",
+          "url": "https://github.com/acme/widgets/pull/10",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/case-1",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture002",
+          "number": 11,
+          "title": "Fix widget layout case 2",
+          "url": "https://github.com/acme/gadgets/pull/11",
+          "isDraft": false,
+          "createdAt": "2026-11-07T04:33:51Z",
+          "headRefName": "feature/case-2",
+          "headRefOid": "02a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 664,
+          "deletions": 237,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "carol",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/gadgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture003",
+          "number": 12,
+          "title": "Fix widget layout case 3",
+          "url": "https://github.com/acme/gadgets/pull/12",
+          "isDraft": false,
+          "createdAt": "2026-11-07T04:00:50Z",
+          "headRefName": "feature/case-3",
+          "headRefOid": "03a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 742,
+          "deletions": 20,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "carol",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/gadgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture004",
+          "number": 13,
+          "title": "Fix widget layout case 4",
+          "url": "https://github.com/acme/api/pull/13",
+          "isDraft": false,
+          "createdAt": "2026-09-13T00:53:58Z",
+          "headRefName": "feature/case-4",
+          "headRefOid": "04a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 6067,
+          "deletions": 32,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/api",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture005",
+          "number": 14,
+          "title": "Bump example-lib from 1.4.0 to 1.5.0",
+          "url": "https://github.com/acme/widgets/pull/14",
+          "isDraft": false,
+          "createdAt": "2025-12-15T18:05:53Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.5.0",
+          "headRefOid": "05a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture006",
+          "number": 15,
+          "title": "Bump example-lib from 1.5.0 to 1.6.0",
+          "url": "https://github.com/acme/widgets/pull/15",
+          "isDraft": false,
+          "createdAt": "2025-12-08T17:28:55Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.6.0",
+          "headRefOid": "06a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture007",
+          "number": 16,
+          "title": "Bump example-lib from 1.6.0 to 1.7.0",
+          "url": "https://github.com/acme/widgets/pull/16",
+          "isDraft": false,
+          "createdAt": "2025-10-20T17:10:31Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.7.0",
+          "headRefOid": "07a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture008",
+          "number": 17,
+          "title": "Bump example-lib from 1.7.0 to 1.8.0",
+          "url": "https://github.com/acme/widgets/pull/17",
+          "isDraft": false,
+          "createdAt": "2025-10-20T17:03:01Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.8.0",
+          "headRefOid": "08a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture009",
+          "number": 18,
+          "title": "Bump example-lib from 1.8.0 to 1.9.0",
+          "url": "https://github.com/acme/widgets/pull/18",
+          "isDraft": false,
+          "createdAt": "2025-10-13T16:47:09Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.9.0",
+          "headRefOid": "09a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture010",
+          "number": 19,
+          "title": "Bump example-lib from 1.9.0 to 1.10.0",
+          "url": "https://github.com/acme/widgets/pull/19",
+          "isDraft": false,
+          "createdAt": "2025-10-13T16:42:20Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.10.0",
+          "headRefOid": "10a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 4,
+          "deletions": 4,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture011",
+          "number": 20,
+          "title": "Bump example-lib from 1.10.0 to 1.11.0",
+          "url": "https://github.com/acme/widgets/pull/20",
+          "isDraft": false,
+          "createdAt": "2025-10-13T16:42:01Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.11.0",
+          "headRefOid": "11a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 4,
+          "deletions": 4,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture012",
+          "number": 21,
+          "title": "Bump example-lib from 1.11.0 to 1.12.0",
+          "url": "https://github.com/acme/widgets/pull/21",
+          "isDraft": false,
+          "createdAt": "2025-10-08T18:59:07Z",
+          "headRefName": "dependabot/npm_and_yarn/example-lib-1.12.0",
+          "headRefOid": "12a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 5,
+          "deletions": 5,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "dependabot",
+            "__typename": "Bot"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "FAILURE"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture101",
+          "number": 101,
+          "title": "Hand-added case 101",
+          "url": "https://github.com/acme/widgets/pull/101",
+          "isDraft": true,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-101",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "bob-bot",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture102",
+          "number": 102,
+          "title": "Hand-added case 102",
+          "url": "https://github.com/acme/widgets/pull/102",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-102",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "CONFLICTING",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture103",
+          "number": 103,
+          "title": "Hand-added case 103",
+          "url": "https://github.com/acme/widgets/pull/103",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-103",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "UNKNOWN",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture104",
+          "number": 104,
+          "title": "Hand-added case 104",
+          "url": "https://github.com/acme/widgets/pull/104",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-104",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "PENDING"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture105",
+          "number": 105,
+          "title": "Hand-added case 105",
+          "url": "https://github.com/acme/widgets/pull/105",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-105",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "EXPECTED"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture106",
+          "number": 106,
+          "title": "Hand-added case 106",
+          "url": "https://github.com/acme/widgets/pull/106",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-106",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "ERROR"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture107",
+          "number": 107,
+          "title": "Hand-added case 107",
+          "url": "https://github.com/acme/widgets/pull/107",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-107",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture108",
+          "number": 108,
+          "title": "Hand-added case 108",
+          "url": "https://github.com/acme/widgets/pull/108",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-108",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/widgets",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": []
+          }
+        },
+        {
+          "id": "PR_kwDOfixture109",
+          "number": 109,
+          "title": "Hand-added case 109",
+          "url": "https://github.com/acme/widgets/pull/109",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-109",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/old-stuff",
+            "isArchived": true,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "PR_kwDOfixture110",
+          "number": 110,
+          "title": "Hand-added case 110",
+          "url": "https://github.com/acme/widgets/pull/110",
+          "isDraft": false,
+          "createdAt": "2026-11-07T09:45:26Z",
+          "headRefName": "feature/hand-110",
+          "headRefOid": "01a1b2c3d4e5f60718293a4b5c6d7e8f90123456",
+          "baseRefName": "main",
+          "additions": 39,
+          "deletions": 0,
+          "mergeable": "MERGEABLE",
+          "author": {
+            "login": "alice",
+            "__typename": "User"
+          },
+          "repository": {
+            "nameWithOwner": "acme/noisy",
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main"
+            },
+            "mergeCommitAllowed": true,
+            "squashMergeAllowed": true,
+            "rebaseMergeAllowed": true,
+            "autoMergeAllowed": false
+          },
+          "commits": {
+            "nodes": [
+              {
+                "commit": {
+                  "statusCheckRollup": {
+                    "state": "SUCCESS"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

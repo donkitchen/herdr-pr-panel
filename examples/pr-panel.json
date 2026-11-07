@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    { "login": "you", "scope": { "mine": true, "owners": ["acme-co"], "exclude": ["acme-co/legacy"] } },
+    { "login": "you-personal", "scope": { "mine": true } }
+  ],
+  "bots": ["acme-bot"],
+  "merge": { "default": "squash" },
+  "hand_off": [
+    {
+      "repo": "acme-co/app",
+      "base": "production",
+      "label": "Scheduled release",
+      "url": "https://example.com/releases"
+    }
+  ],
+  "tickets": {
+    "pattern": "\\b[A-Z][A-Z0-9]+-\\d+\\b",
+    "url": "https://your-team.atlassian.net/browse/{key}"
+  }
+}
